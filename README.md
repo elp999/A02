@@ -37,7 +37,7 @@ Source https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.htm
 TERMS
 
 Branch - a way to safely fix bugs by isolating your work from your respository to a safe environment to avoid accidently breaking your code  
-Clone - this copies a respository and makes a new copy of of the respository in a new directory at a new location 
+Clone - this copies a respository and makes a new copy of of the respository in a new directory at a new location  
 Commit - this is a revision, a commit saves your work  
 Fetch - This is a command that downloads commits, files and refs from a remote respository into the local one  
 GIT - This is an open source version control system that allows developers to work on projects together and keep track of revisions while properly merging code changes  
