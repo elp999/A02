@@ -33,3 +33,22 @@ Step 6 When you are done editing you can click the 3 bars in the top left and sa
 Step 7 The arrow in the bottom left part of the screen or ALT + 4 for short will run the code to test if it works  
 Step 8 That is the basics to run webstorm, last thing is if you are writing an html page, you can hover over your code and click on the browser icon to view it in the webpage  
 Source https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html  
+
+TERMS
+
+Branch - a way to safely fix bugs by isolating your work from your respository to a safe environment to avoid accidently breaking your code  
+Clone - this copies a respository and makes a new copy of of the respository in a new directory at a new location 
+Commit - this is a revision, a commit saves your work  
+Fetch - This is a command that downloads commits, files and refs from a remote respository into the local one  
+GIT - This is an open source version control system that allows developers to work on projects together and keep track of revisions while properly merging code changes  
+Github - This is the webbased interface that uses GIT, it allows users to publish code, revise code, and allows developers to simultaneously work on code projects  
+Merge - This allows for a forked history to merge back together again. That is two independant git branches into one single branch  
+Merge Conflict - This is when two people edit the same line of code in the same file or someone edits a file while someone else deletes the file  
+Push - The command uploads local respository content commits to a remote respository  
+Pull - This command downloads content from a remote respository and updates the local respository with that content  
+Remote - This is to refer to a remote respository which is usually hosted on a server accessible for anyone on the local network  
+Respository - The place where any and all project files are stored as well as revision history  
+
+
+
+
