@@ -1,6 +1,7 @@
 # A02
-Tutorial for using GIT  
-Step 1 You can enter this link into your browser https://git-scm.com/download/win	
+Tutorial for using GIT
+
+Step 1 You can enter this link into your browser https://git-scm.com/download/win  
 Step 2 The top link where it says "Click here to download", click that and run through the installer  
 Step 3 Once its finished open the application and type git config --global user.name "Your Name" and git config --global user.email "your.email@example.com"  
 Step 4 To confirm your initialization you can type git config --global --get user.email and git config --global --get user.name  
@@ -10,9 +11,25 @@ Step 7 You can add any files you want to track to the staging area with "git add
 Step 8 Type git commit -m "Put your message here" this commits your changes and saves them  
 Source https://www.geeksforgeeks.org/working-on-git-bash/  
 
-Tutorial for using Github		
-Step 1 Copy this URL into your browser https://github.com/	
-Step 2 Sign up for an account in the upper right hand corner of the website		
-Step 3 Refer to the Git installation tutorial as Github runs on Git		
-Step 4 Create a respository by clicking on your profile -> your respositories -> new	
-https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
+Tutorial for using Github
+
+Step 1 Copy this URL into your browser https://github.com/  
+Step 2 Sign up for an account in the upper right hand corner of the website  
+Step 3 Refer to the Git installation tutorial as Github runs on Git  
+Step 4 Create a respository by clicking on your profile -> your respositories -> new  
+Step 5 This respository is your project, add a README file by checking the "Add a README file", to give a brief explanation for your project  
+Step 6 To add code from your project, you can click Add file -> Upload files, then drag and drop which ever file of your choice  
+Step 7 Make sure to click commit changes to save any edits you make  
+Source https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
+
+Tutorial for using Webstorm  
+
+Step 1 Copy and paste this url into your browser https://www.jetbrains.com/webstorm/  
+Step 2 Click the big download button, then proceed to run through the installer  
+Step 3 When you open the application you will have to create an account and choose a pricing plan (or start a free trial like myself)  
+Step 4 Now you can start a new project and select which language you will like to code in  
+Step 5 Right click on the project folder and click on new -> whichever file you want to create  
+Step 6 When you are done editing you can click the 3 bars in the top left and save the project  
+Step 7 The arrow in the bottom left part of the screen or ALT + 4 for short will run the code to test if it works  
+Step 8 That is the basics to run webstorm, last thing is if you are writing an html page, you can hover over your code and click on the browser icon to view it in the webpage  
+Source https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html  
